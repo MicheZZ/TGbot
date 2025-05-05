@@ -3,7 +3,7 @@ from pytube import YouTube
 import asyncio
 import aiogram
 
-API_TOKEN = '6009143411:AAE709dR3zic0gIzhdeDQqErt_E9EeCvIAo'
+API_TOKEN = 'Token'
 
 bot = aiogram.Bot(token=API_TOKEN)
 dp = aiogram.Dispatcher(bot)
